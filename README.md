@@ -14,7 +14,7 @@ This project is used to generate a completely random password based off the user
 
 ## Deployed Application
 Here is the link to access the deployed application. 
-[https://noahsimcoe.github.io/Noah-Professional-Portfolio/](https://github.com/noahsimcoe/Noah-Password-Generator)
+https://noahsimcoe.github.io/Noah-Password-Generator/
 
 Additionally, here is a screenshot of what it looks like.
 <img width="1416" alt="Noah's Password Generator" src="https://github.com/noahsimcoe/Noah-Password-Generator/assets/109931528/3a5215a1-1e37-4531-94da-a58371dfd6f4">
