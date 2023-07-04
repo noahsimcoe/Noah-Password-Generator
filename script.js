@@ -15,6 +15,8 @@ var password = [];
 // this is the generate password function we were tasked with
 function generatePassword() {
     var passwordLength = Number(window.prompt("Enter a number between 8 and 128"));
+    characterPool = [];
+    password = [];
 
     // this makes sure that the number entered was inbetween 8-12
     while (passwordLength > 128 || passwordLength < 8) {
@@ -72,3 +74,4 @@ function writePassword() {
 // Add event listener to generate button
 // when you click the button the "writePassword" function is called
 generateBtn.addEventListener("click", writePassword);
+
